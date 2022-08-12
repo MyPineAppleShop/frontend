@@ -69,4 +69,3 @@ $ yarn run deploy  (배포)
 ## RestAPI 🤙
 
 - 사용자ID ⇒ memberName
-# frontend
