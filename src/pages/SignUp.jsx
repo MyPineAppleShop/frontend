@@ -8,7 +8,7 @@ export default function Login() {
             <h1>회원가입</h1>
             <div class="signin__card">
                 <h2>
-                    <strong>BBtree</strong> 
+                    <strong>PineApple</strong> 
                 </h2>
                 <form>
                     <input type="text" id="userid" placeholder="아이디를 입력하세요." />

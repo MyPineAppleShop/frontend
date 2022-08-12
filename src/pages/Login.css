@@ -9,7 +9,7 @@
     width: 100%;
     height: 100%;
     padding: 250px 0 290px;
-    background: url('https://images.pexels.com/photos/626986/pexels-photo-626986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') no-repeat center center/cover, rgba(0, 0, 0, 0.5);
+    background: url('https://rtlimages.apple.com/cmc/dieter/store/16_9/R692.png?resize=750:422&output-format=jpg&output-quality=85&interpolation=progressive-bicubic') no-repeat center center/cover, rgba(0, 0, 0, 0.5);
     background-blend-mode: multiply;
     background-repeat: no-repeat ;
     background-position: center;
@@ -30,7 +30,7 @@
     border-radius: 6px;
     background-color: #fefcf8;
     box-shadow: 2px 2px 20px rgba(0,0,0,.3);
-    color: #555;
+    color:rgb(219, 223, 253);
 }
 .signin__card h2 {
     padding: 30px;
@@ -40,7 +40,7 @@
 }
 .signin__card h2 strong {
     font-weight: 700;
-    color:rgb(112, 62, 26);
+    color:rgb(219, 223, 253);
 }
 .signin__card form {
     padding: 10px 22px;
