@@ -10,7 +10,7 @@ export default function Login() {
                 <h2>
                     <strong>BBtree</strong> 
                 </h2>
-                <div>
+                <form>
                     <input type="text" id="userid" placeholder="아이디를 입력하세요." />
                     <p>
                         * 아이디는 1-15자의 영문과 숫자와 일부특수문자(._-)만 입력 가능합니다.
@@ -25,7 +25,7 @@ export default function Login() {
                    
                     <button class="member" onclick="register()">회원가입</button>
                     <a class="member 2"  href="/login">취소</a>
-                </div>
+                </form>
             </div>
         </section>
     </div>

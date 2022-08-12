@@ -42,10 +42,10 @@
     font-weight: 700;
     color:rgb(112, 62, 26);
 }
-.signin__card div {
+.signin__card form {
     padding: 10px 22px;
 }
-.signin__card div input {
+.signin__card form input {
     width: 100%;
     margin-bottom: 12px;
     margin-top: 10px;
@@ -57,7 +57,7 @@
     font-size: 14px;
 }
 
-.signin__card div button{
+.signin__card form button{
     padding: 0;
     border: none;
     background: none;
@@ -67,12 +67,12 @@
     font-size: 18px;
 }
 
-.signin__card div button:hover{
+.signin__card form button:hover{
     font-weight: 700;
 }
 
-.signin__card div div button,
-.signin__card div div a,
+.signin__card form div button,
+.signin__card form div a,
 .member
 {
     font-size: 14px;
@@ -95,14 +95,14 @@
     text-decoration: underline;
 }
 
-.signin__card div span {
+.signin__card form span {
     font-size: 14px;
     color: #3f4141;
     font-size: 16px;
     margin-bottom: 10px;
 }
 
-.signin__card div p {
+.signin__card form p {
     font-size: 12px;
     color:rgb(112, 62, 26);
     text-align: center;
