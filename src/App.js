@@ -7,10 +7,12 @@ import Links from "./components/Links";
 import SignUp from "./pages/SignUp";
 import Iphone from "./pages/Iphone";
 import Mac from "./pages/Mac";
+import Header from "./pages/Header";
 
 function App() {
   return (
     <BrowserRouter>
+      <Header />
       <Links />
       <Routes>
         <Route />
