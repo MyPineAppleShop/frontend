@@ -1,4 +1,4 @@
-import "./SignUp.css";
+import "../components/styled/SignUp.css";
 
 export default function Login() {    
     return(
